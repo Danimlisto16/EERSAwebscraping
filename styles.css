@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table,
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+} 
+
+th {
+  background-color: #04d647cf;
+  color: #333;
+  /* Dark grey text */
+}
+
+tr:nth-child(even) {
+  background-color: #38b4f2a9;
+  /* Light grey background */
+}
+
+@media screen and (max-width: 600px) {
+  table {
+    font-size: 14px;
+  }
+}
