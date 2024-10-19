@@ -55,17 +55,12 @@ def searchOnTable(cedula,tipo):
         
         items = 0
         powerCutSchedule = ""
-        for row in rows:
-            columns = row.find_all('td')
-            for column in columns:
-                
-                print(column.get_text())
-                
-                powerCutSchedule+=column.get_text()+ " | "
-                items +=1
-                if items == 2:
-                    return powerCutSchedule
-
+        # Print the first <td> in the second row (rows[1])
+        u   =  rows[2].find_all('td')[0]
+        un  = rows[2].find_all('td')[1]
+        dos = rows[1].find_all('td')[1]
+        powerCutSchedule = u.get_text() + ' | ' + un.get_text() +" y "+ dos.get_text()+' | '
+        return powerCutSchedule
     else:
         return "None"
 
@@ -74,7 +69,9 @@ def save_rows_to_json(rows, filename):
     # Convert rows to a list of dictionaries
     data = []
     for row in rows:
+        
         date, time_range, recipient = row.split(' | ')
+        
         data.append({
             'date': date.strip(),
             'time_range': time_range.strip(),

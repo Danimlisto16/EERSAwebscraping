@@ -1,52 +1,52 @@
 [
     {
         "date": "domingo, 20 de octubre, 2024",
-        "time_range": "16:00 A 20:00",
+        "time_range": "04:00 A 08:00 y 16:00 A 20:00",
         "recipient": "Casa"
     },
     {
         "date": "domingo, 20 de octubre, 2024",
-        "time_range": "16:00 A 20:00",
+        "time_range": "04:00 A 08:00 y 16:00 A 20:00",
         "recipient": "Julin"
     },
     {
         "date": "domingo, 20 de octubre, 2024",
-        "time_range": "16:00 A 20:00",
+        "time_range": "04:00 A 08:00 y 16:00 A 20:00",
         "recipient": "Mami Cuqui"
     },
     {
         "date": "domingo, 20 de octubre, 2024",
-        "time_range": "12:00 A 16:00",
+        "time_range": "00:00 A 04:00 y 12:00 A 16:00",
         "recipient": "Caty"
     },
     {
         "date": "domingo, 20 de octubre, 2024",
-        "time_range": "16:00 A 20:00",
+        "time_range": "04:00 A 08:00 y 16:00 A 20:00",
         "recipient": "Mami Fanita"
     },
     {
         "date": "domingo, 20 de octubre, 2024",
-        "time_range": "12:00 A 16:00",
+        "time_range": "00:00 A 04:00 y 12:00 A 16:00",
         "recipient": "Taty"
     },
     {
         "date": "domingo, 20 de octubre, 2024",
-        "time_range": "16:00 A 20:00",
+        "time_range": "04:00 A 08:00 y 16:00 A 20:00",
         "recipient": "Pa"
     },
     {
         "date": "domingo, 20 de octubre, 2024",
-        "time_range": "16:00 A 20:00",
+        "time_range": "04:00 A 08:00 y 16:00 A 20:00",
         "recipient": "Oscarin"
     },
     {
         "date": "domingo, 20 de octubre, 2024",
-        "time_range": "12:00 A 16:00",
+        "time_range": "00:00 A 04:00 y 12:00 A 16:00",
         "recipient": "Prima Pao"
     },
     {
         "date": "domingo, 20 de octubre, 2024",
-        "time_range": "12:00 A 16:00",
+        "time_range": "00:00 A 04:00 y 12:00 A 16:00",
         "recipient": "MFP"
     }
 ]
