@@ -1,42 +1,52 @@
 [
     {
-        "date": "martes, 30 de abril, 2024",
-        "time_range": "13:00 A 15:00",
+        "date": "domingo, 20 de octubre, 2024",
+        "time_range": "16:00 A 20:00",
         "recipient": "Casa"
     },
     {
-        "date": "martes, 30 de abril, 2024",
-        "time_range": "13:00 A 15:00",
+        "date": "domingo, 20 de octubre, 2024",
+        "time_range": "16:00 A 20:00",
         "recipient": "Julin"
     },
     {
-        "date": "martes, 30 de abril, 2024",
-        "time_range": "17:00 A 18:00",
+        "date": "domingo, 20 de octubre, 2024",
+        "time_range": "16:00 A 20:00",
         "recipient": "Mami Cuqui"
     },
     {
-        "date": "lunes, 17 de junio, 2024",
-        "time_range": "20:00 A 22:00",
+        "date": "domingo, 20 de octubre, 2024",
+        "time_range": "12:00 A 16:00",
         "recipient": "Caty"
     },
     {
-        "date": "lunes, 17 de junio, 2024",
-        "time_range": "22:00 A 23:00",
+        "date": "domingo, 20 de octubre, 2024",
+        "time_range": "16:00 A 20:00",
         "recipient": "Mami Fanita"
     },
     {
-        "date": "martes, 30 de abril, 2024",
-        "time_range": "13:00 A 15:00",
+        "date": "domingo, 20 de octubre, 2024",
+        "time_range": "12:00 A 16:00",
         "recipient": "Taty"
     },
     {
-        "date": "lunes, 17 de junio, 2024",
-        "time_range": "18:00 A 20:00",
+        "date": "domingo, 20 de octubre, 2024",
+        "time_range": "16:00 A 20:00",
         "recipient": "Pa"
     },
     {
-        "date": "martes, 30 de abril, 2024",
-        "time_range": "13:00 A 15:00",
+        "date": "domingo, 20 de octubre, 2024",
+        "time_range": "16:00 A 20:00",
         "recipient": "Oscarin"
+    },
+    {
+        "date": "domingo, 20 de octubre, 2024",
+        "time_range": "12:00 A 16:00",
+        "recipient": "Prima Pao"
+    },
+    {
+        "date": "domingo, 20 de octubre, 2024",
+        "time_range": "12:00 A 16:00",
+        "recipient": "MFP"
     }
 ]

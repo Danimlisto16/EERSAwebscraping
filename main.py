@@ -58,7 +58,9 @@ def searchOnTable(cedula,tipo):
         for row in rows:
             columns = row.find_all('td')
             for column in columns:
-                #print(column.get_text())
+                
+                print(column.get_text())
+                
                 powerCutSchedule+=column.get_text()+ " | "
                 items +=1
                 if items == 2:
@@ -93,7 +95,9 @@ Documents = [
     ["0600110589","Mami Fanita"],
     ["0601470636001","Taty"],
     ["0602031932","Pa"],
-    ["0602790040","Oscarin"]
+    ["0602790040","Oscarin"],
+    ["0600437297","Prima Pao"],
+    ["0602486813","MFP"]
     
 ]        
 
